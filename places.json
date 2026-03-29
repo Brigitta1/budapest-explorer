@@ -1,0 +1,45 @@
+
+[
+    {
+        "name": "Gellért Hill",
+        "fact": "Offers one of the best panoramic views of Budapest",
+        "mission": "Take a photo that captures 'height' or 'perspective'",
+        "category": ["nature", "calm", "view"],
+        "photos": []
+    },
+    {
+        "name": "Buda Green Hiking Route",
+        "fact": "Amazing views to the city from tree-filled streets",
+        "mission": "Capture close-ups vs. wide perspectives",
+        "category": ["nature", "movement", "calm"],
+        "photos": []
+    },
+    {
+        "name": "National Athletics Centre",
+        "fact": "Won the international IOC IAKS Architecture Prize in 2025",
+        "mission": "Photograph motion and momentum",
+        "category": ["movement", "architecture", "urban"],
+        "photos": []
+    },
+    {
+        "name": "Fisherman’s Bastion",
+        "fact": "Neo-Romanesque terrace with fairy-tale towers",
+        "mission": "Photograph patterns or repetition",
+        "category": ["historical", "architecture", "urban"],
+        "photos": []
+    },
+    {
+        "name": "Margaret Island",
+        "fact": "A peaceful green island in the middle of the Danube",
+        "mission": "Capture something that feels calm and slow",
+        "category": ["nature", "movement", "calm"],
+        "photos": []
+    },
+    {
+        "name": "District VIII streets",
+        "fact": "Mix of old buildings and modern urban life",
+        "mission": "Capture contrast: old vs new",
+        "category": ["urban", "architecture", "gritty", "contrast"],
+        "photos": []
+    }
+]
